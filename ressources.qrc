@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/sprites">
+        <file>ressources/Char_cannon.png</file>
+        <file>ressources/Char_corps.png</file>
+        <file>ressources/fissure.png</file>
+        <file>ressources/rock.png</file>
+        <file>ressources/water.png</file>
+        <file>ressources/tree.png</file>
+        <file>ressources/Char_corps_2.png</file>
+        <file>ressources/Char_corps_2_down.png</file>
+        <file>ressources/Char_corps_2_left.png</file>
+        <file>ressources/Char_corps_2_right.png</file>
+        <file>ressources/Char_corps_down.png</file>
+        <file>ressources/Char_corps_left.png</file>
+        <file>ressources/Char_corps_rigth.png</file>
+        <file>ressources/rock_dammaged.png</file>
+        <file>ressources/tree_dammaged.png</file>
+        <file>ressources/12780.wav</file>
+    </qresource>
+</RCC>
